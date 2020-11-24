@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ec9a9118.chunk.css",
+    "main.js": "/static/js/main.0f1439b2.chunk.js",
+    "main.js.map": "/static/js/main.0f1439b2.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.6b7292c0.js",
+    "runtime-main.js.map": "/static/js/runtime-main.6b7292c0.js.map",
+    "static/css/2.cc9819bf.chunk.css": "/static/css/2.cc9819bf.chunk.css",
+    "static/js/2.6b370f37.chunk.js": "/static/js/2.6b370f37.chunk.js",
+    "static/js/2.6b370f37.chunk.js.map": "/static/js/2.6b370f37.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.69e835e675b253cff23e1811802d1675.js": "/precache-manifest.69e835e675b253cff23e1811802d1675.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.cc9819bf.chunk.css.map": "/static/css/2.cc9819bf.chunk.css.map",
+    "static/css/main.ec9a9118.chunk.css.map": "/static/css/main.ec9a9118.chunk.css.map",
+    "static/js/2.6b370f37.chunk.js.LICENSE.txt": "/static/js/2.6b370f37.chunk.js.LICENSE.txt",
+    "static/media/map-all.png": "/static/media/map-all.226946f3.png",
+    "static/media/map-asgarnia.png": "/static/media/map-asgarnia.ef28704d.png",
+    "static/media/map-fremennik.png": "/static/media/map-fremennik.495f7fe0.png",
+    "static/media/map-kandarin.png": "/static/media/map-kandarin.5f95e6d8.png",
+    "static/media/map-misthalin.png": "/static/media/map-misthalin.e71ec7fd.png",
+    "static/media/map-morytania.png": "/static/media/map-morytania.44e003de.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6b7292c0.js",
+    "static/css/2.cc9819bf.chunk.css",
+    "static/js/2.6b370f37.chunk.js",
+    "static/css/main.ec9a9118.chunk.css",
+    "static/js/main.0f1439b2.chunk.js"
+  ]
+}
